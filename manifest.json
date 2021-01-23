@@ -1,0 +1,20 @@
+{
+  "name": "PedalPay",
+  "short_name": "PedalPay",
+  "icons": [
+    {
+      "src": "/img/app-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/app-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "#0986d2",
+  "background_color": "#0986d2",
+  "display": "standalone"
+}
